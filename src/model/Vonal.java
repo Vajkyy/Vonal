@@ -32,7 +32,6 @@ public class Vonal {
             throw new IllegalArgumentException("A hossz értéke legalább 1 kell legyen: " + hossz);
         }
 
-        this.eltolas = eltolas;
         setEltolas(eltolas);
     }
 
